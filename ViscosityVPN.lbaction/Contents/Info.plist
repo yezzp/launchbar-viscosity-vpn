@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CFBundleName</key>
+		<string>VPNs</string>
+
+		<key>CFBundleIdentifier</key>
+		<string>com.launchbar.viscosity.vpn</string>
+
+		<key>CFBundleVersion</key>
+		<string>1.0</string>
+
+		<key>CFBundleIconFile</key>
+		<string>appAlertIcon.png</string>
+
+		<key>LBRequiredApplication</key>
+		<string>com.viscosityvpn.Viscosity</string>
+
+		<key>LBScripts</key>
+		<dict>
+			<key>LBDefaultScript</key>
+			<dict>
+		
+			<key>LBScriptName</key>
+			<string>default.scpt</string>
+		   
+			<key>LBReturnsResult</key>
+			<true/>
+
+	        </dict>
+		</dict>
+		<key>LBDescription></key>
+		<dict>
+			<key>LBAuthor</key>
+			<string>Johan Abrahamsson</string>
+
+			<key>LBEmail</key>
+			<string>slaskapost@gmail.com</string>
+
+			<key>LBSummary</key>
+			<string>Connect to VPN through Viscosity and get visual feedback of connections state</string>
+		</dict>
+	</dict>
+</plist>
