@@ -9,7 +9,7 @@
 		<string>com.launchbar.viscosity.vpn</string>
 
 		<key>CFBundleVersion</key>
-		<string>1.0</string>
+		<string>1.1</string>
 
 		<key>CFBundleIconFile</key>
 		<string>appAlertIcon.png</string>
